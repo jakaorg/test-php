@@ -17,6 +17,9 @@ Comments on your solution
 
 There is a room for the imrovement, mostly in beter database communication (SQL query/s) which might replace some of the need for data manipulation with PHP.
 
+Error handling is not implemnented. Implementation of error handling. Estimated time: 4 hours.
+
+
 
 > Describe how you can build a better "Product" for this coding task in SOLUTION.md and include your estimates
 
